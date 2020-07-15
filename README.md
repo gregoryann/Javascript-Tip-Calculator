@@ -1,3 +1,3 @@
-# project3
+# Javascript Tip Calculator
 
 Javascript Tip Calculator
